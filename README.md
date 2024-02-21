@@ -22,10 +22,12 @@ This project requires Microsoft Excel with enabled macros to run. It has been te
 
 ## Screenshots
 
-![Converter Interface](/screenshots/Screenshot%202024-02-21%20at%203.42.59 PM.png)
+![Enable Macros](/screenshots/Screenshot%202024-02-21%20at%203.42.59 PM.png)
 
-![Converter Interface](/screenshots/Screenshot%202024-02-21%20at%203.43.07 PM.png.png)
+![Converter Interface](/screenshots/Screenshot%202024-02-21%20at%203.43.07 PM.png)
 
-![Converter Interface](/screenshots/Screenshot%202024-02-21%20at%203.51.48 PM.png.png)
+![VBA Editor](/screenshots/Screenshot%202024-02-21%20at%203.51.48 PM.png)
+
+![VBA Editor2](/screenshots/Screenshot%202024-02-21%20at%203.56.10 PM.png)
 
 *Converter Interface: Select source directory and conversion option*
